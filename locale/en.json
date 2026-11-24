@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Context compaction reminder",
+    "description": "An always-visible usage indicator under the composer, measured against an attention budget in k tokens. Highlights at a configurable percentage and can fill /compact for you. Purely additive: disabling the plugin removes it.",
+    "detail": "docs/DETAIL.md"
+  }
+}

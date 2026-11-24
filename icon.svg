@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" style="color-scheme: light dark" role="img" aria-label="Context compaction reminder">
+  <rect x="1.5" y="1.5" width="33" height="33" rx="9" fill="none" style="stroke: light-dark(#CCCBC8, #4A4843)" stroke-width="1.5"/>
+  <path d="M8.5 23.5a9.5 9.5 0 1 1 19 0" fill="none" style="stroke: light-dark(#A87829, #D1A041)" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+  <path d="M18 23.5 L24.5 17" fill="none" style="stroke: light-dark(#A87829, #D1A041)" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="18" cy="23.5" r="2" style="fill: light-dark(#A87829, #D1A041)"/>
+  <g transform="translate(21.5 22.5)">
+    <rect x="0" y="0" width="10" height="8" rx="2.4" style="fill: light-dark(#141413, #FAF9F5)"/>
+    <path d="M2.6 8 L2.6 11 L5.6 8 Z" style="fill: light-dark(#141413, #FAF9F5)"/>
+    <rect x="2.4" y="2.1" width="5.2" height="1.1" rx="0.55" style="fill: light-dark(#FAF9F5, #141413)"/>
+    <rect x="2.4" y="4.4" width="3.4" height="1.1" rx="0.55" style="fill: light-dark(#FAF9F5, #141413)" opacity="0.7"/>
+  </g>
+</svg>
